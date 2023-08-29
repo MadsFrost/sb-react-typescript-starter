@@ -42,7 +42,7 @@ npm install
 ```
 
 ## Configuration
-Create a `.env` file in the root of the project based on the provided example example.env file. Fill in the required Storyblok tokens and space ID.
+Create a `.env` file in the root of the project based on the provided example `example.env` file. Fill in the required Storyblok tokens and space ID.
 
 ## Scripts
 The following npm scripts are available for managing the project:
