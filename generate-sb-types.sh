@@ -15,7 +15,9 @@ else
   exit 1
 fi
 
+# Make sure user is configured with the storyblok instance
 npx storyblok login
+
 # Pull components
 npx storyblok pull-components --space $VITE_STORYBLOK_SPACEID
 
