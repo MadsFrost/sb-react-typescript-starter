@@ -1,6 +1,6 @@
-# Project Name: sb-react-typescript-starter
+sb-react-typescript-starter
 
-This repository provides a starter template for building React applications with TypeScript and Storyblok integration. This README will guide you through the setup process, configuration, and usage of this project.
+This repository provides a starter template for building React+Vite applications with TypeScript and Storyblok integration. This README will guide you through the setup process, configuration, and usage of this project.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
