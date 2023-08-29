@@ -3,6 +3,9 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
+  "author": "Mads Anton Frost Kolborg Klynderud",
+  "description": "A starter template for Storyblok with React and Typescript",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
